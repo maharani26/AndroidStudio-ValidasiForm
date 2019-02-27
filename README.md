@@ -4,10 +4,6 @@ Halaman Form
 
 ![alt_text](https://github.com/maharani26/AndroidStudio-ValidasiForm/blob/master/1.jpeg)
 
-Halaman Form
-
-![alt_text](https://github.com/maharani26/AndroidStudio-ValidasiForm/blob/master/1.jpeg)
-
 
 Submit Data
 
